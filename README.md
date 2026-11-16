@@ -171,17 +171,12 @@ This project started as a **personal tool** to:
 * Automate resume tailoring
 * Experiment with job–resume matching
 
-It may evolve into:
-
-* An open-source learning resource
-* A developer tool
-* A paid productivity product
 
 ---
 
 ## 📄 License
 
-MIT License
+MIT. See [LICENSE](LICENSE).
 
 ---
 
@@ -189,10 +184,3 @@ MIT License
 
 PRs, issues, and discussions are welcome but **keep it pragmatic**.
 No over-engineering for the sake of architecture.
-
----
-
-## 🧨 Final Ruthless Note
-
-> This is **not magic AI**.
-> It’s a practical tool built to **save time**, not sell dreams.
